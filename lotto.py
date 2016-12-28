@@ -26,16 +26,16 @@ def between_i(string, start='', end=''):
     
     # Iterate until there's no string found
     while True:
-        # If no start is specified, start at the begining
+        # If no start is specified, start at the beginning
         if not start:
             s = 0
-        # Else find the first occurence of start
+        # Else find the first occurrence of start
         else:
             s = string.find(start)
         # If end is empty, end at the ending
         if not end:
             e = len(string)
-        # Else find the first occurence of end
+        # Else find the first occurrence of end
         else:
             e = string.find(end)
         # Base case, if can't find one of the element, stop the iteration
