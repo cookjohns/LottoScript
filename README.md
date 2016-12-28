@@ -1,6 +1,4 @@
 # LottoScript
-Checks Maryland Powerball lotto numbers and sends an email if you win.
-
 The script will check winning numbers every Monday, Wednesday, and Friday at 9:00pm, and send an email to the account of
 your choosing should you have a match of two or more numbers for any given draw.
 
@@ -8,6 +6,7 @@ your choosing should you have a match of two or more numbers for any given draw.
 
 ### lotto.py
 Add your gmail account info and lotto numbers in the comment block at the top.
+
 Save the file without a file extension.
 
 ### lottolist.plist
