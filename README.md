@@ -19,3 +19,5 @@ launchctl load ~/filepath
 ```
 launchctl start lottolist
 ```
+
+Thanks to un33k for a fantastic starting point!
