@@ -2,14 +2,13 @@
 
 import os, urllib2, sys, re, datetime, smtplib
 
+#########################################
+####### PUT IN YOUR STUFF HERE ##########
+
 SEND_EMAIL = False
 FROMADDR = "fromaddress@gmail.com"
 TOADDRS  = ["toaddress@gmail.com"]
 gmail_user = 'useraddress@gmail.com'
-
-#########################################
-####### PUT IN YOUR STUFF HERE ##########
-
 gmail_pwd = 'password' # leave the quotes in, just like the username above
 
 myNums = "01 02 03 04 05"
