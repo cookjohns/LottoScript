@@ -2,6 +2,8 @@
 
 import os, urllib2, sys, re, datetime, smtplib
 
+# Thanks to un33k for a fantastic starting point!
+
 #########################################
 ####### PUT IN YOUR STUFF HERE ##########
 
